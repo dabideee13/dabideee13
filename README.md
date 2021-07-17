@@ -1,6 +1,9 @@
 # Hello World! 
 ## I'm Dave (a.k.a Dabid) 🤙
 
+<a href="https://www.linkedin.com/in/dave-emmanuel-magno-b62282170/">
+  <img align="left" alt="Dave Emmanuel Magno | LinkedIn" width="21px" src="https://raw.githubusercontent.com/dabideee13/dabideee13/main/assets/linkedin.png" />
+</a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
