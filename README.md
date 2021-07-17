@@ -4,6 +4,9 @@
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
+<a href="https://twitter.com/DaveEmmanuelQM2">
+  <img align="left" alt="Dave Emmanuel Magno | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 <br />
 <br />
