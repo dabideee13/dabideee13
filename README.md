@@ -8,7 +8,7 @@
   <img align="left" alt="Dave Emmanuel Magno | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/dave.e.magno">
-  <img align="left" alt="Dave Emmanuel Magno | Facebook" width="30px" src="https://raw.githubusercontent.com/dabideee13/dabideee13/main/assets/facebook.svg" />
+  <img align="left" alt="Dave Emmanuel Magno | Facebook" width="36px" src="https://raw.githubusercontent.com/dabideee13/dabideee13/main/assets/facebook.svg" />
 </a>
 
 <br />
