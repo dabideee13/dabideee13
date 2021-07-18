@@ -4,13 +4,13 @@
 <a href="https://www.linkedin.com/in/dave-emmanuel-magno-b62282170/">
   <img align="left" alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/dabideee13/dabideee13/main/assets/linkedin.png" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://discord.gg/e2mBMXsC">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href="https://twitter.com/DaveEmmanuelQM2">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
+ 
 
 <br />
 <br />
