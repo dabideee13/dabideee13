@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/dave-emmanuel-magno-b62282170/">
   <img align="left" alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/dabideee13/dabideee13/main/assets/linkedin.png" />
 </a>
-<a href="https://discord.gg/e2mBMXsC">
+<a href="https://discord.gg/4qdQ8Hzz">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href="https://twitter.com/DaveEmmanuelQM2">
