@@ -1,5 +1,4 @@
-# Hello World! 
-## I'm Dave ( a.k.a Dabid ) 🤙
+# Hello World! 🤙
 
 <a href="https://www.linkedin.com/in/dave-emmanuel-magno-b62282170/">
   <img align="left" alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/dabideee13/dabideee13/main/assets/linkedin.png" />
